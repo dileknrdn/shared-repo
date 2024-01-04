@@ -1,3 +1,3 @@
 # shared-repo
 
-I love javascript. it's better than food jk
+I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming. 
